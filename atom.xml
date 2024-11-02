@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>星觅の博客</title>
+  
+  <subtitle>喵喵喵~</subtitle>
+  <link href="https://starmi6397.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://starmi6397.github.io/"/>
+  <updated>2024-11-02T22:34:56.767Z</updated>
+  <id>https://starmi6397.github.io/</id>
+  
+  <author>
+    <name>星觅</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="https://starmi6397.github.io/2024/11/03/hello/"/>
+    <id>https://starmi6397.github.io/2024/11/03/hello/</id>
+    <published>2024-11-02T22:34:10.000Z</published>
+    <updated>2024-11-02T22:34:56.767Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h2><h3 id="This-is-my-first-blog"><a href="#This-is-my-first-blog" class="headerlink" title="This is my first blog"></a>This is my first blog</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;hello&quot;&gt;&lt;a href=&quot;#hello&quot; class=&quot;headerlink&quot; title=&quot;hello&quot;&gt;&lt;/a&gt;hello&lt;/h2&gt;&lt;h3 id=&quot;This-is-my-first-blog&quot;&gt;&lt;a href=&quot;#This-is-my-first-blo</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
