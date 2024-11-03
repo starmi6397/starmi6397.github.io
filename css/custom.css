@@ -48,6 +48,23 @@
   .icon-zhongbiao::before {
     color: #f7c768;
   }
+
+  /*哔哩哔哩视频适配*/
+.aspect-ratio {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 75%;
+  margin: 3% auto;
+  text-align: center;
+}
+.aspect-ratio iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
   
   /* bilibli番剧插件 */
   #article-container .bangumi-tab.bangumi-active {
@@ -169,14 +186,14 @@
     background: transparent !important;
   }
   
-  /* 头图透明 */
+  /* 头图透明
   #page-header {
     background: transparent !important;
   }
   
   #rightside > div > button {
     border-radius: 5px;
-  }
+  } */
   
   /* 滚动条 */
   
